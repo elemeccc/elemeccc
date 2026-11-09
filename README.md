@@ -15,8 +15,8 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/[tuo_linkedin]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[tua_email@email.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/[tuo_linkedin]](https://www.linkedin.com/in/eleonora-meccariello-59516732b?utm_source=share_via&utm_content=profile&utm_medium=member_android )"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[elemeccc@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
