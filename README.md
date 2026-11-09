@@ -11,7 +11,7 @@
 <p align="center">
   <i>"Tira un d20 su Percezione per esplorare il mio profilo..."</i>
   <!-- Animazione del dado che gira (d20) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3ZnN2b3F3czA0OTR4N3lzZnd6MDR4MWppc20yYjJoMjIwdXpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Rolling a d20" />
+ <img src="./assets/d20-planeswalker.gif" width="100" alt="D20 Roll" />
 </p>
 
 <p align="center">
@@ -44,3 +44,4 @@
   <img src="https://geps.dev/progress/90?color=00f0ff" alt="Mana Bar" />
 </p>
 
+<img src="./assets/hacker-cat.gif" width="100%" alt="Hacker Cat Coding" />
