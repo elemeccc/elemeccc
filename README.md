@@ -42,17 +42,3 @@
   <img src="https://geps.dev/progress/90?color=00f0ff" alt="Mana Bar" />
 </p>
 
----
-
-### 📊 Statistiche di Gioco (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tuo_username]&show_icons=true&theme=dracula&hide_border=true" alt="Statistiche GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tuo_username]&layout=compact&theme=dracula&hide_border=true" alt="Linguaggi più usati" height="150" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A700&center=true&vcenter=true&width=435&lines=No+cost+too+great...;Authority!;Critical+Success!;" alt="Typing SVG" />
-</p>
