@@ -24,7 +24,7 @@
 
 - 🧙‍♂️ **Stato attuale:** Tentando un tiro di *Salvezza su Intelligenza* per far compilare il codice al primo colpo.
 - 🗡️ **Arma preferita:** Ago e Chiodo da Cavaliere di Hallownest (e VS Code).
-- 💬 **Chiedimi pure:** Come sconfiggere il Re di Incubo Grimm o come fare il multiclasse perfetto su BG3.
+- 💬 **Chiedimi pure:** Come sconfiggere il Re dell' incubo Grimm o come fare il multiclasse perfetto su BG3.
 
 --- 
 
