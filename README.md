@@ -3,7 +3,7 @@
 
 <!-- Il Cavaliere alla Panchina (Hollow Knight) -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZjV5dTNkMHlhb3FsdW5wYm9pZHBhY3d2Z2d1M2J0Znl4N21hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="220" alt="Hollow Knight resting on bench" />
+ <img src="https://64.media.tumblr.com/tumblr_m2u9b3e1r51r69zpoo1_500.gif" width="220" alt="Hollow Knight resting on bench" />
 </p>
 
 <p align="center">
