@@ -44,4 +44,4 @@
   <img src="https://geps.dev/progress/90?color=00f0ff" alt="Mana Bar" />
 </p>
 
-<img src="./assets/hacker-cat.gif" width="100%" alt="Hacker Cat Coding" />
+<img src="assets/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f484d335a6e4e3262334633637a41304f5452344e336c7a5a6e64364d4452344d57707063323079596a4a6f4d6a4977645870.gif" width="100%" alt="Hacker Cat Coding" />
