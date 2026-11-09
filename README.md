@@ -11,7 +11,7 @@
 <p align="center">
   <i>"Tira un d20 su Percezione per esplorare il mio profilo..."</i>
   <!-- Animazione del dado che gira (d20) -->
- <img src=".assets/D20 planeswalker in rotazione animata.gif" width="100" alt="D20 Roll" />
+ <img src=".assets/d20.gif" width="100" alt="D20 Roll" />
 </p>
 
 <p align="center">
