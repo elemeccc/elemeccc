@@ -5,13 +5,13 @@
 <p align="center">
 <!-- Il Cavaliere alla Panchina -->
 <p align="center">
-  <img src="./assets/hollow-knight-icegif-4.gif.gif" width="220" alt="Hollow Knight resting on bench" />
+  <img src="./assets/hollow-knight-icegif-4.gif" width="220" alt="Hollow Knight resting on bench" />
 </p></p>
 
 <p align="center">
   <i>"Tira un d20 su Percezione per esplorare il mio profilo..."</i>
   <!-- Animazione del dado che gira (d20) -->
-<img src="./assets/d20-planeswalker.gif" width="100" alt="D20 Roll" /></p>
+<img src="./assets/d20-planeswalker.gif.gif" width="100" alt="D20 Roll" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/[tuo_linkedin]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
