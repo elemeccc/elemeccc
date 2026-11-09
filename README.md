@@ -11,7 +11,7 @@
 <p align="center">
   <i>"Tira un d20 su Indagare per esplorare il mio profilo..."</i>
   <!-- Animazione del dado che gira (d20) -->
-<img src="assets/assetsd20-planeswalker.gif" width="100" alt="D20 Roll" /></p>
+<img src="planeswalker.gif" width="100" alt="D20 Roll" /></p>
 
 
 <p align="center">
