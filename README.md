@@ -21,7 +21,7 @@
 
 ---
 
-### 📜 Note del Diario di Bordo
+### <i>📜 Note del Diario di Bordo <i>
 
 - 🧙‍♂️ **Stato attuale:** Tentando un tiro di *Salvezza su Intelligenza* per far compilare il codice al primo colpo.
 - 🗡️ **Arma preferita:** Ago e Chiodo da Cavaliere di Hallownest (e VS Code).
