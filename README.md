@@ -1,5 +1,5 @@
-<h1 align="center">⚔️ Ciao, sono [Il Tuo Nome]! 🗡️</h1>
-<h3 align="center">🎲 Class: Code Wizard | Subclass: Bug Hunter 🐛</h3>
+<h1 align="center">⚔️ Ciao, sono Ele! 🗡️</h1>
+
 
 <!-- Il Cavaliere alla Panchina (Hollow Knight) -->
 <p align="center">
