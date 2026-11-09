@@ -5,7 +5,7 @@
 <p align="center">
 <!-- Il Cavaliere alla Panchina -->
 <p align="center">
-  <img src="./assets/hollow-knight-icegif-4.gif" width="100%" alt="Hollow Knight resting on bench" />
+  <img src="./assets/hollow-knight-icegif-4.gif" width="220" alt="Hollow Knight resting on bench" />
 </p></p>
 
 <p align="center">
