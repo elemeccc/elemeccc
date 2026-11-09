@@ -3,8 +3,10 @@
 
 <!-- Il Cavaliere alla Panchina (Hollow Knight) -->
 <p align="center">
- <img src="https://64.media.tumblr.com/tumblr_m2u9b3e1r51r69zpoo1_500.gif" width="220" alt="Hollow Knight resting on bench" />
-</p>
+<!-- Il Cavaliere alla Panchina -->
+<p align="center">
+  <img src="./assets/hollow-knight-icegif-4.gif" width="220" alt="Hollow Knight resting on bench" />
+</p></p>
 
 <p align="center">
   <i>"Tira un d20 su Percezione per esplorare il mio profilo..."</i>
